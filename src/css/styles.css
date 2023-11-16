@@ -15,6 +15,10 @@ button{
     padding: 5px;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 .gallery {
     width: 1440px;
     display: flex;
